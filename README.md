@@ -4,7 +4,7 @@ This is the code for data visualization and analysis for images with FRET based 
 Suviving cells have FRET signal and apoptotic cell have Amcyan signal. Nomalized FRET signal (FRET/Amcyan) value (intensity) indicate cell viability.
 
 ### dataset
-The sample data.zip file contains 10 visal fileds data from two non-treated mice and 10 visal fileds data from two chemotherapy treated mice (5 visual fields from individual mice). The data are text files for nomalized FRET signal for individual 512 X 512 pixel areas.
+Sample data.zip file contains 10 visal fileds data from two non-treated mice and 10 visal fileds data from two chemotherapy treated mice (5 visual fields from individual mice). The data are text files for nomalized FRET signal for individual 512 X 512 pixel areas.
 
 ### initial image analysis for ratiometry with Image J/Fiji
 
