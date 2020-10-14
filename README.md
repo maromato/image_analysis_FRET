@@ -3,10 +3,10 @@
 This is the code for data visualization and analysis for images with FRET based flourecent probe called SCAT3.2 for surviving and apoptosis cell distinction.
 Suviving cells have FRET signal and apoptotic cell have Amcyan signal. Nomalized FRET signal (FRET/Amcyan) value (intensity) indicate cell viability.
 
-### dataset
+### 1. dataset
 Sample data.zip file contains 10 visal fileds data from two non-treated mice and 10 visal fileds data from two chemotherapy treated mice (5 visual fields from individual mice). The data are text files for nomalized FRET signal for individual 512 X 512 pixel areas.
 
-### initial image analysis for ratiometry with Image J/Fiji
+### 2. initial image analysis for ratiometry with Image J/Fiji
 
 The original image was processed by Image J function.
 The detail was described elsewhere (https://imagej.net/Image_Intensity_Processing)
@@ -15,7 +15,7 @@ The detail was described elsewhere (https://imagej.net/Image_Intensity_Processin
 2. Ratio of FRET(channel 2) and Amcyan (channel 1) is calculated by "Image Calculator function..." (under the menu of process) after background correction.  
 3. the result of Image calculation is saved as "Text Image..."
 
-### further image analysis with R
+### 3. further image analysis with R
 
 The code called "SCAT3_2_analysis.R" for further image analysis.
 
@@ -28,4 +28,10 @@ It contains code
 
 <img width="1004" alt="Screen Shot 2020-10-14 at 12 58 12 AM" src="https://user-images.githubusercontent.com/17135389/95948918-89fe6f80-0dbf-11eb-9bea-8830223689f2.png">
 
-### further support
+### 4. Software and miscellaneous
+
+The programs were written by R 3.6.1.
+This is a beta-test version for educational/research purposes and please let me know if there are any questions.
+
+email: toshihiko.oki@gmail.com
+
