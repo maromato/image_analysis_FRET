@@ -25,3 +25,5 @@ It contains code
 2. To make histgram plot of vormalized FRET (F/A) value
 3. To make summary bar chart and conduct statistical analysis (t-test)
 4. To make a heatmap for entire dataset
+
+<img width="1004" alt="Screen Shot 2020-10-14 at 12 58 12 AM" src="https://user-images.githubusercontent.com/17135389/95948918-89fe6f80-0dbf-11eb-9bea-8830223689f2.png">
