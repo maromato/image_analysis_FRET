@@ -22,7 +22,7 @@ The code called "SCAT3_2_analysis.R" for further image analysis.
 It contains code
 
 1. To make a heatmap of imaged area
-2. To make histgram plot of vormalized FRET (F/A) value
+2. To make histgram plot of normalized FRET (F/A) value
 3. To make summary bar chart and conduct statistical analysis (t-test)
 4. To make a heatmap for entire dataset
 
