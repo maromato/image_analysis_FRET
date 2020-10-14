@@ -17,7 +17,7 @@ The detail was described elsewhere (https://imagej.net/Image_Intensity_Processin
 
 ### further image analysis with R
 
-The code called ".R" for further image analysis.
+The code called "SCAT3_2_analysis.R" for further image analysis.
 
 It contains code
 
