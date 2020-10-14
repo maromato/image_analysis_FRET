@@ -21,7 +21,7 @@ library(hrbrthemes)
 library(viridis)
 
 getwd()
-setwd("/Users/xng7136/Downloads/data_scat32_analysis")
+setwd("/Users/USERNAME/PATH/data_scat32_analysis")
 dir()
 
 #F/A value vector formulation
